@@ -47,7 +47,7 @@ content or image
 
 <script>
 
-class MyClass {static void sayHello() 
+class MyClass {static String sayHello() 
 {
     System.out.println("Hello World!");
 }
